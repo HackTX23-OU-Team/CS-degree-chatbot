@@ -1,25 +1,24 @@
 # Major Requirements
 
-| Course Code | Course Name                                               | Credit Hours |
-|-------------|----------------------------------------------------------|--------------|
-| C S 2334   | Programming Structures and Abstractions                   | 4            |
-| C S 2413   | Data Structures                                           | 3            |
-| C S 2614   | Computer Organization                                     | 4            |
-| C S 3323   | Principles of Programming Languages                       | 3            |
-| C S 3113   | Introduction to Operating Systems                         | 3            |
-| C S 3203   | Software Engineering                                      | 3            |
-| C S 3823   | Theory of Computation                                     | 3            |
-| C S 4173   | Computer Security                                         | 3            |
-| C S 4413   | Algorithm Analysis                                        | 3            |
-| C S 4513   | Database Management Systems                               | 3            |
-| C S 4273   | Capstone Design Project                                   | 3            |
-| C S 4473   | Parallel, Distributed, and Network Programming            | 3            |
-| C S Electives | *Choose 12 credits of C S electives* | 12 |
-|             | **Choose one of the following:**                          |              |
-| C S 1323   | Introduction to Computer Programming for Programmers      | 3         |
-| C S 1321   | Java for Programmers                                      | 1         |
-| C S 1324   | Introduction to Computer Programming for Non-Programmers  | 4         |
-|             | **Choose one of the following:**                           |              |
-| C S 2813   | Discrete Structures                                       | 3            |
-| MATH 2513  | Discrete Mathematical Structures                          | 3            | 
-|
+| Course Code   | Course Name                                              | Credit Hours |
+| ------------- | -------------------------------------------------------- | ------------ |
+| C S 2334      | Programming Structures and Abstractions                  | 4            |
+| C S 2413      | Data Structures                                          | 3            |
+| C S 2614      | Computer Organization                                    | 4            |
+| C S 3323      | Principles of Programming Languages                      | 3            |
+| C S 3113      | Introduction to Operating Systems                        | 3            |
+| C S 3203      | Software Engineering                                     | 3            |
+| C S 3823      | Theory of Computation                                    | 3            |
+| C S 4173      | Computer Security                                        | 3            |
+| C S 4413      | Algorithm Analysis                                       | 3            |
+| C S 4513      | Database Management Systems                              | 3            |
+| C S 4273      | Capstone Design Project                                  | 3            |
+| C S 4473      | Parallel, Distributed, and Network Programming           | 3            |
+| C S Electives | _Choose 12 credits of C S electives_                     | 12           |
+|               | **Choose one of the following:**                         |              |
+| C S 1323      | Introduction to Computer Programming for Programmers     | 3            |
+| C S 1321      | Java for Programmers                                     | 1            |
+| C S 1324      | Introduction to Computer Programming for Non-Programmers | 4            |
+|               | **Choose one of the following:**                         |              |
+| C S 2813      | Discrete Structures                                      | 3            |
+| MATH 2513     | Discrete Mathematical Structures                         | 3            |
