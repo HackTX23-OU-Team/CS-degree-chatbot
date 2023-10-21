@@ -9,3 +9,6 @@
 | ISE 3293   | Applied Engineering Statistics              | 3            |
 | MATH 4743  | Introduction to Mathematical Statistics    |3              |
 | MATH 4753  | Applied Statistical Methods                | 3            |
+Technical Electives| Choose 9 credits of approved technical electives.
+ENGR 1411	|Pathways to Engineering Thinking 1	|1
+ENGR 2002	|Professional Development	|2
