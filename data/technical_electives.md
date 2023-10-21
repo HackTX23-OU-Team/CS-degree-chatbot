@@ -1,3 +1,5 @@
+# Approved Technical Electives 
+
 | Course Code | Course Name                                       | Credit Hours |
 |------------|---------------------------------------------------|--------------|
 | C S 3440   | Mentored Research Experience                       |              |
@@ -44,3 +46,45 @@
 | MATH 4960  | Directed Readings                                 | 1-4          |
 | MATH 4970  | Special Topics/Seminar                            | 1-3          |
 | MATH 4990  | Independent Study                                 | 1-3          |
+| ECE 3113   | Energy Conversion I                        | 3            |
+| ECE 3223   | Microprocessor System Design               | 3            |
+| ECE 3323   | Introduction to Solid State Electronic Devices | 3            |
+| ECE 3440   | Mentored Research Experience                | 3            |
+| ECE 3613   | Electromagnetic Fields I                   | 3            |
+| ECE 3723   | Electrical Circuits II                      | 3            |
+| ECE 3773   | Electrical and Computer Engineering Circuits Laboratory | 3            |
+| ECE 3793   | Signals and Systems                        | 3            |
+| ECE 3813   | Introductory Electronics                    | 3            |
+| ECE 3873   | Electrical and Computer Engineering Electronics Laboratory | 3            |
+| ECE 3960   | Honors Reading                             | 1-3          |
+| ECE 3970   | Honors Seminar                             | 1-3          |
+| ECE 3980   | Honors Research                            | 1-3          |
+| ECE 3990   | Independent Study                          | 1-3          |
+| ECE G4113  | Analysis of Electrical Transmission         | 3            |
+| ECE 4213   | Digital Signal Processing                   | 3            |
+| ECE 4273   | Digital Design Laboratory                  | 3            |
+| ECE 4281   | Engineering Co-Op Program                  | 1            |
+| ECE 4363   | Optical Engineering                        | 3            |
+| ECE 4383   | IC Fabrication Technology I                | 3            |
+| ECE 4393   | Integrated Circuit Fabrication Technology II | 3            |
+| ECE G4413  | Introduction to Control System Engineering | 3            |
+| ECE 4433   | Measurement and Automation                  | 3            |
+| ECE G4523  | Introduction to Communication Theory        | 3            |
+| ECE G4613  | Computer Architecture                        | 3            |
+| ECE 4623   | Computer Hardware Design                    | 3            |
+| ECE 4643   | Radio Frequency and Microwave Engineering   | 3            |
+| ECE 4653   | Digital Radar Systems                       | 3            |
+| ECE 4663   | Radar Engineering                            | 3            |
+| ECE 4693   | Antennas                                     | 3            |
+| ECE 4703   | Electromagnetic Fields and Wave Propagation | 3            |
+| ECE 4733   | RF & Microwave Filter Design                 | 3            |
+| ECE 4773   | Laboratory (Special Projects)                | 3            |
+| ECE G4813  | Electronics                                  | 3            |
+| ECE G4823  | Engineering Principles of the Human Body    | 3            |
+| ECE 4833   | VLSI Digital System Design                   | 3            |
+| ECE 4853   | Biomedical Signals and Systems               | 3            |
+| ECE 4863   | Bioinstrumentation                            | 3            |
+| ECE 4960   | Directed Readings                            | 1-4          |
+| ECE 4970   | Special Topics/Seminar                       | 1-3          |
+| ECE 4973   | Special Topics                               | 3            |
+| ECE 4990   | Special Studies                              | 1-3          |
