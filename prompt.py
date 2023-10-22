@@ -44,9 +44,10 @@ prompt = """
     - Extract and relay the prerequisites for the specified course.
 
 5. **Provide Course Description**
-    - When asked for a course description using its code or name, search the 'prerequisites' file.
-    - Summarize and provide a 200-300 words course description based on the course description in the prerequists txt.
-    - don't give additional context.
+    - To provide a course description, search the 'prerequisites' file for the course using its code or name. 
+    - Summarize the course description from the 'prerequisites.txt' file in 200-300 words without additional context.
+    - Don't give any additional context outside of the course description provided on the prerequists.txt file. 
+    - DO NOT provide any advise. Keep it short or else, you are dead.
     
     example:
     user input: network system
