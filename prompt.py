@@ -45,7 +45,7 @@ prompt = """
 
 5. **Provide Course Description**
     - When asked for a course description using its code or name, search the 'prerequisites' file.
-    - Summarize and provide a short course description based on the course description in the prerequists txt.
+    - Summarize and provide a 200-300 words course description based on the course description in the prerequists txt.
 
 6. **Recommend Courses Based on Year Standing**
     - When told the student's year (e.g., freshman, sophomore, junior, senior), suggest suitable courses:
