@@ -8,6 +8,11 @@ from llama_index.memory import ChatMemoryBuffer
 
 openai.api_key = st.secrets.openai_key
 
+avatar_img = {
+    "user": "🧑🏾‍🎓",
+    "assistant": "🤖"
+} 
+
 st.set_page_config(page_title="OU CS Advisor", page_icon="🗂️")
 st.markdown("<h1 style='color: #841617; text-align: center;'>The Ultimate OU Advisor for CS majors</h1>", unsafe_allow_html=True)
 
@@ -45,12 +50,12 @@ if prompt := st.chat_input("Your question"):
 
     # Display the chat history
     for message in st.session_state.chat_history:
-        with st.chat_message(message["role"]):
+        with st.chat_message(message["role"], avatar = avatar_img[message["role"]]):
             st.write(message["content"])
             
     # If last message is not from the assistant, generate a new response
     if st.session_state.chat_history and st.session_state.chat_history[-1]["role"] != "assistant":
-        with st.chat_message("assistant"):
+        with st.chat_message("assistant", avatar = avatar_img["assistant"]):
             with st.spinner("Thinking..."):
                 response = chat_engine.chat(prompt)
                 st.write(response.response)
