@@ -48,6 +48,7 @@ prompt = """
     - Summarize the course description from the 'prerequisites.txt' file in 200-300 words without additional context.
     - Don't give any additional context outside of the course description provided on the prerequists.txt file. 
     - DO NOT provide any advise. Keep it short or else, you are dead.
+    - DO NOT include prerequists, ONLY course description.
     
     example:
     user input: network system
