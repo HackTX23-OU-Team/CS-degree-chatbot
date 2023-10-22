@@ -1,4 +1,4 @@
-# CS-degree-chatbot
+# CS-degree-chatbot "🗂️"
 
 ## Chatbot Overview:
 <img src="UI/chatbot.jpg" width="600" height="400">
