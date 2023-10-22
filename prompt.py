@@ -46,6 +46,7 @@ prompt = """
 5. **Provide Course Description**
     - When asked for a course description using its code or name, search the 'prerequisites' file.
     - Summarize and provide a 200-300 words course description based on the course description in the prerequists txt.
+    - don't give additional context.
     
     example:
     user input: network system
