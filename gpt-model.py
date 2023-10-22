@@ -4,14 +4,13 @@ from llama_index.llms import OpenAI
 import openai
 from llama_index import SimpleDirectoryReader
 import prompt
+from llama_index.memory import ChatMemoryBuffer
 
-openai.api_key = "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"
-
-
+openai.api_key = st.secrets.openai_key
 
 st.set_page_config(page_title="OU CS Advisor", page_icon="🗂️")
-
 st.markdown("<h1 style='color: #841617; text-align: center;'>The Ultimate OU Advisor for CS majors</h1>", unsafe_allow_html=True)
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
@@ -30,16 +29,15 @@ def load_data():
         docs = reader.load_data()
         service_context = ServiceContext.from_defaults(llm=OpenAI(
             model="gpt-3.5-turbo", temperature=0.5, system_prompt=prompt.prompt))
-
         index = VectorStoreIndex.from_documents(
             docs, service_context=service_context)
         return index
 
 
+memory = ChatMemoryBuffer.from_defaults(token_limit=1500)
 index = load_data()
-chat_engine = index.as_chat_engine(chat_mode="condense_question", verbose=True)
-
-
+chat_engine = index.as_chat_engine(
+    chat_mode="context", memory=memory, system_prompt=prompt.prompt, verbose=True)
 
 # Prompt for user input and save to chat history
 if prompt := st.chat_input("Your question"):
