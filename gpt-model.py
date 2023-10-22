@@ -8,6 +8,7 @@ from llama_index.memory import ChatMemoryBuffer
 
 openai.api_key = "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"
 st.title("The Ultimate OU Advisor for CS majors")
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
