@@ -25,13 +25,17 @@ def load_data():
 
         reader = SimpleDirectoryReader(input_dir="./data", recursive=True)
         docs = reader.load_data()
-        service_context = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0.5, system_prompt=prompt.prompt))
-        index = VectorStoreIndex.from_documents(docs, service_context=service_context)
+        service_context = ServiceContext.from_defaults(llm=OpenAI(
+            model="gpt-3.5-turbo", temperature=0.5, system_prompt=prompt.prompt))
+        index = VectorStoreIndex.from_documents(
+            docs, service_context=service_context)
         return index
+
 
 memory = ChatMemoryBuffer.from_defaults(token_limit=1500)
 index = load_data()
-chat_engine = index.as_chat_engine(chat_mode="context", memory=memory, system_prompt=prompt.prompt, verbose=True)
+chat_engine = index.as_chat_engine(
+    chat_mode="context", memory=memory, system_prompt=prompt.prompt, verbose=True)
 
 # Prompt for user input and save to chat history
 if prompt := st.chat_input("Your question"):
