@@ -1,96 +1,114 @@
-Course Code: C S 1213
-Course Name: Programming for Non-Majors with Python
-Credit Hours: 3
-Prerequisite: Mathematics 1503 or concurrent enrollment.
-Course Description: Introduction to the design and implementation of computer programs in the language Python. We will cover data types, control flow, iterations, functions, and the use of external libraries for text processing, graphics, image manipulation, web programming and others. Emphasis on problem solving with examples drawn from diverse disciplines.
+1. 
+    Course Code: C S 1213
+    Course Name: Programming for Non-Majors with Python
+    Credit Hours: 3
+    Prerequisite: Mathematics 1503 or concurrent enrollment.
+    Course Description: Introduction to the design and implementation of computer programs in the language Python. We will cover data types, control flow, iterations, functions, and the use of external libraries for text processing, graphics, image manipulation, web programming and others. Emphasis on problem solving with examples drawn from diverse disciplines.
 
-Course Code: C S 1313
-Course Name: Programming for Non-Majors with C
-Credit Hours: 3
-Prerequisite: MATH 1523 or concurrent enrollment.
-Course Description: Introduction to the design and implementation of computer programs. Emphasis on problem solving. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, loops, procedures and functions, arrays, standard libraries, input and output, structures, and program documentation.
+2.
+    Course Code: C S 1313
+    Course Name: Programming for Non-Majors with C
+    Credit Hours: 3
+    Prerequisite: MATH 1523 or concurrent enrollment.
+    Course Description: Introduction to the design and implementation of computer programs. Emphasis on problem solving. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, loops, procedures and functions, arrays, standard libraries, input and output, structures, and program documentation.
 
-Course Code: C S 1321
-Course Name: Java for Programmers
-Credit Hours: 1
-Prerequisite: MATH 1523 or equivalent or concurrent enrollment; or placement into MATH 1743 or MATH 1823 or higher and departmental permission.
-Course Description: Introduction to computer programming using the Java programming language for students who are already proficient in another programming language. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, repetition, methods, arrays, linear and binary search, basic sorting algorithms, object-oriented programming, documentation, and testing. Students may not take this class after passing CS 2334.
+3.
+    Course Code: C S 1321
+    Course Name: Java for Programmers
+    Credit Hours: 1
+    Prerequisite: MATH 1523 or equivalent or concurrent enrollment; or placement into MATH 1743 or MATH 1823 or higher and departmental permission.
+    Course Description: Introduction to computer programming using the Java programming language for students who are already proficient in another programming language. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, repetition, methods, arrays, linear and binary search, basic sorting algorithms, object-oriented programming, documentation, and testing. Students may not take this class after passing CS 2334.
 
-Course Code: C S 1323
-Course Name: Introduction to Computer Programming for Programmers
-Credit Hours: 3
-Prerequisite: MATH 1523 or concurrent enrollment; or placement into MATH 1743 or MATH 1823 or higher and department permission.
-Course Description: Introduction to the design and implementation of computer software with an emphasis on abstraction and program organization for students with some prior programming experience. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, repetition, methods, arrays, linear and binary search, basic sorting algorithms, object-oriented programming, documentation, and testing. Students may not take this class after passing CS 2334.
+4.
+    Course Code: C S 1323
+    Course Name: Introduction to Computer Programming for Programmers
+    Credit Hours: 3
+    Prerequisite: MATH 1523 or concurrent enrollment; or placement into MATH 1743 or MATH 1823 or higher and department permission.
+    Course Description: Introduction to the design and implementation of computer software with an emphasis on abstraction and program organization for students with some prior programming experience. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, repetition, methods, arrays, linear and binary search, basic sorting algorithms, object-oriented programming, documentation, and testing. Students may not take this class after passing CS 2334.
 
-Course Code: C S 1324
-Course Name: Introduction to Computer Programming for Non-Programmers
-Credit Hours: 4
-Prerequisite: Math 1523 or concurrent enrollment; or placement into Math 1743 or Math 1823 or higher and departmental permission.
-Course Description: Introduction to the design and implementation of computer software with an emphasis on abstraction and program organization for students with no prior programming experience. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, repetition, methods, arrays, linear and binary search, basic sorting algorithms, object-oriented programming, documentation, and testing. Students may not take this class after passing CS 2334.
+5.
+    Course Code: C S 1324
+    Course Name: Introduction to Computer Programming for Non-Programmers
+    Credit Hours: 4
+    Prerequisite: Math 1523 or concurrent enrollment; or placement into Math 1743 or Math 1823 or higher and departmental permission.
+    Course Description: Introduction to the design and implementation of computer software with an emphasis on abstraction and program organization for students with no prior programming experience. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, repetition, methods, arrays, linear and binary search, basic sorting algorithms, object-oriented programming, documentation, and testing. Students may not take this class after passing CS 2334.
 
-Course Code: C S 2334
-Course Name: Programming Structures and Abstractions
-Credit Hours: 4
-Prerequisite: C S 1323 or 1321 or 1324, and MATH 1523 or higher.
-Course Description: The design and implementation of computer programs using disciplined methodologies. Use of several abstract data types. Software reuse through encapsulation, composition, aggregation, inheritance, polymorphism, and generics. Topics include recursion, GUI development, file processing, and unit testing. A program design tool will be used. Introduction to ethics in computer science, including philosophical ethics theories. Discussion of intellectual property rights and privacy.
+6.
+    Course Code: C S 2334
+    Course Name: Programming Structures and Abstractions
+    Credit Hours: 4
+    Prerequisite: C S 1323 or 1321 or 1324, and MATH 1523 or higher.
+    Course Description: The design and implementation of computer programs using disciplined methodologies. Use of several abstract data types. Software reuse through encapsulation, composition, aggregation, inheritance, polymorphism, and generics. Topics include recursion, GUI development, file processing, and unit testing. A program design tool will be used. Introduction to ethics in computer science, including philosophical ethics theories. Discussion of intellectual property rights and privacy.
 
-Course Code: C S 2413
-Course Name: Data Structures
-Credit Hours: 3
-Prerequisite: C S 2334 and MATH 1823 or 1914; and C S 2813 or MATH 2513, or concurrent enrollment in C S 2813 or MATH 2513.
-Course Description: Representation, analysis and implementation of data structures and associated algorithms including: algorithm complexity, sorting algorithms, lists, stacks, queues, search trees (AVL, Red-Black, Splay, 2-3), Heaps, Graphs, and Hashing. Written communications required in some projects. Ethical issues and tools and techniques used in writing secure applications will also be discussed. The primary programming language is C++ with a debugging tool.
+7.
+    Course Code: C S 2413
+    Course Name: Data Structures
+    Credit Hours: 3
+    Prerequisite: C S 2334 and MATH 1823 or 1914; and C S 2813 or MATH 2513, or concurrent enrollment in C S 2813 or MATH 2513.
+    Course Description: Representation, analysis and implementation of data structures and associated algorithms including: algorithm complexity, sorting algorithms, lists, stacks, queues, search trees (AVL, Red-Black, Splay, 2-3), Heaps, Graphs, and Hashing. Written communications required in some projects. Ethical issues and tools and techniques used in writing secure applications will also be discussed. The primary programming language is C++ with a debugging tool.
 
-COURSE CODE: C S 2614
-COURSE NAME: Computer Organization
-PREREQUISITE: CS 2334
-DESCRIPTION: An introduction to the architecture, organization and design of uniprocessor-based computer systems. Topics include processor, control and memory design and organization, pipelining and vector processing, computer arithmetic, I/O organization, and computer systems security.
+8.
+    COURSE CODE: C S 2614
+    COURSE NAME: Computer Organization
+    PREREQUISITE: CS 2334
+    DESCRIPTION: An introduction to the architecture, organization and design of uniprocessor-based computer systems. Topics include processor, control and memory design and organization, pipelining and vector processing, computer arithmetic, I/O organization, and computer systems security.
 
-COURSE CODE: C S 4213
-COURSE NAME: Network Systems
-PREREQUISITE: C S 2413 and C S 2614
-DESCRIPTION: An introduction to the design and analysis of computer networks. Topics include: the OSI and TCP/IP models, physical and link layers, IP addressing and routing, transport protocols, network programming, and network security.
+9.
+    COURSE CODE: C S 4213
+    COURSE NAME: Network Systems
+    PREREQUISITE: C S 2413 and C S 2614
+    DESCRIPTION: An introduction to the design and analysis of computer networks. Topics include: the OSI and TCP/IP models, physical and link layers, IP addressing and routing, transport protocols, network programming, and network security.
 
-COURSE CODE: C S 4313
-COURSE NAME: Databases and Web Development
-PREREQUISITE: C S 2413
-DESCRIPTION: Introduction to relational database design, SQL, and web-based database applications. Topics include: Entity-Relationship diagrams, normalization, SQL programming, web-based client-server applications, and security issues in web applications.
+10.
+    COURSE CODE: C S 4313
+    COURSE NAME: Databases and Web Development
+    PREREQUISITE: C S 2413
+    DESCRIPTION: Introduction to relational database design, SQL, and web-based database applications. Topics include: Entity-Relationship diagrams, normalization, SQL programming, web-based client-server applications, and security issues in web applications.
 
-COURSE CODE: C S 4423
-COURSE NAME: Mobile Application Development
-PREREQUISITE: C S 2413
-DESCRIPTION: Design and development of mobile applications. Topics include mobile device architecture, mobile application design principles, programming for Android and iOS platforms, and integration with web services.
+11.
+    COURSE CODE: C S 4423
+    COURSE NAME: Mobile Application Development
+    PREREQUISITE: C S 2413
+    DESCRIPTION: Design and development of mobile applications. Topics include mobile device architecture, mobile application design principles, programming for Android and iOS platforms, and integration with web services.
 
-COURSE CODE: C S 4513
-COURSE NAME: Cybersecurity Principles
-PREREQUISITE: C S 2413 and C S 3113
-DESCRIPTION: Exploration of fundamental concepts in cybersecurity including encryption, digital signatures, malware, intrusion detection systems, firewalls, and security policies.
+12.
+    COURSE CODE: C S 4513
+    COURSE NAME: Cybersecurity Principles
+    PREREQUISITE: C S 2413 and C S 3113
+    DESCRIPTION: Exploration of fundamental concepts in cybersecurity including encryption, digital signatures, malware, intrusion detection systems, firewalls, and security policies.
 
-COURSE CODE: C S 4613
-COURSE NAME: Advanced Algorithms
-PREREQUISITE: C S 2413 and C S 2813
-DESCRIPTION: Study of advanced algorithmic techniques including divide-and-conquer, dynamic programming, greedy algorithms, NP-completeness, and approximation algorithms.
+13.
+    COURSE CODE: C S 4613
+    COURSE NAME: Advanced Algorithms
+    PREREQUISITE: C S 2413 and C S 2813
+    DESCRIPTION: Study of advanced algorithmic techniques including divide-and-conquer, dynamic programming, greedy algorithms, NP-completeness, and approximation algorithms.
 
-COURSE CODE: C S 4723
-COURSE NAME: Virtual Reality and Augmented Reality
-PREREQUISITE: C S 2413 and C S 4053
-DESCRIPTION: Introduction to the design and development of virtual and augmented reality applications. Topics include 3D graphics, user input methods, VR and AR devices, and application design principles.
+14.
+    COURSE CODE: C S 4723
+    COURSE NAME: Virtual Reality and Augmented Reality
+    PREREQUISITE: C S 2413 and C S 4053
+    DESCRIPTION: Introduction to the design and development of virtual and augmented reality applications. Topics include 3D graphics, user input methods, VR and AR devices, and application design principles.
 
-COURSE CODE: C S 4813
-COURSE NAME: Human-Computer Interaction
-PREREQUISITE: C S 2413
-DESCRIPTION: Principles and practices of designing interactive systems. Topics include user-centered design, prototyping, evaluation techniques, and current research topics in human-computer interaction.
+15.
+    COURSE CODE: C S 4813
+    COURSE NAME: Human-Computer Interaction
+    PREREQUISITE: C S 2413
+    DESCRIPTION: Principles and practices of designing interactive systems. Topics include user-centered design, prototyping, evaluation techniques, and current research topics in human-computer interaction.
 
-COURSE CODE: C S 4913
-COURSE NAME: Capstone Project
-PREREQUISITE: Senior Standing in Computer Science
-DESCRIPTION: A culminating experience where students apply their accumulated knowledge to design and implement a significant software project.
+16.
+    COURSE CODE: C S 4913
+    COURSE NAME: Capstone Project
+    PREREQUISITE: Senior Standing in Computer Science
+    DESCRIPTION: A culminating experience where students apply their accumulated knowledge to design and implement a significant software project.
 
-COURSE CODE: C S 4993
-COURSE NAME: Independent Study
-PREREQUISITE: Permission of Instructor
-DESCRIPTION: Directed research on a topic agreed upon by the student and instructor. Results in a paper or software project.
+17.
+    COURSE CODE: C S 4993
+    COURSE NAME: Independent Study
+    PREREQUISITE: Permission of Instructor
+    DESCRIPTION: Directed research on a topic agreed upon by the student and instructor. Results in a paper or software project.
 
-COURSE CODE: C S 5053
-COURSE NAME: Advanced Machine Learning
-PREREQUISITE: C S 4033
-DESCRIPTION: A deep dive into modern machine learning techniques, including deep learning, reinforcement learning, unsupervised learning, and advanced optimization algorithms.
+18.
+    COURSE CODE: C S 5053
+    COURSE NAME: Advanced Machine Learning
+    PREREQUISITE: C S 4033
+    DESCRIPTION: A deep dive into modern machine learning techniques, including deep learning, reinforcement learning, unsupervised learning, and advanced optimization algorithms.
