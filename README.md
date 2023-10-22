@@ -1,7 +1,7 @@
 # CS-degree-chatbot
 
 ## Chatbot Overview:
-![Chatbot Overview](https://github.com/HackTX23-OU-Team/CS-degree-chatbot/blob/main/UI/chatbot.jpg)
+<img src="UI/chatbot.jpg" width="100" height="100">
 
 ## Inspiration:
 As CS students at the University of Oklahoma, we aim to create a chatbot that assists students in navigating the complex process of understanding their degree requirements. Given the limited availability of advising appointments, this chatbot will serve as a valuable tool for students planning their enrollment for upcoming semesters.
