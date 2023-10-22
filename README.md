@@ -1,5 +1,8 @@
 # CS-degree-chatbot
 
+## Chatbot Overview:
+![Chatbot Overview](http://UI/chatbot.jpg)
+
 ## Inspiration:
 As CS students at the University of Oklahoma, we aim to create a chatbot that assists students in navigating the complex process of understanding their degree requirements. Given the limited availability of advising appointments, this chatbot will serve as a valuable tool for students planning their enrollment for upcoming semesters.
 
@@ -23,5 +26,4 @@ Bias Consideration: Our current design is specifically tailored for students who
 ## What's next for CS Advising Chatbot:
 In future iterations, we aim to enhance the AI's capabilities to recommend courses for minors that CS students frequently pursue, such as mathematics and business. Additionally, we envision expanding the chatbot's scope to encompass other engineering majors, ensuring they too benefit from its functionalities.
 
-## Chatbot Overview:
 
